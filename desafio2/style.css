@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    color: white;
+    justify-content: center;
+}
+.card{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 50%;
+    border-color: blue;
+    padding: 20px;
+}
+
+.card-title{
+    color: brown;
+    text-transform: capitalize;
+    font-size: x-large;
+}
+
+.img{
+    width: auto;
+}
+ a:hover{
+    color: blue;
+ }
+
+ ul{
+    list-style: none;
+ }
