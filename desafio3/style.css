@@ -20,12 +20,14 @@ a:hover{
 .text{
     float: right;
     overflow: hidden;
+    margin-right: 870px;
+    margin-bottom: px;
 }
 
 .container{
     margin: auto;
     width: max-content;
-    
+
 }
 
 .card{
