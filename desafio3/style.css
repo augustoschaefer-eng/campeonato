@@ -1,0 +1,55 @@
+header{
+    background-color: black;
+    color: white;
+}
+
+body{
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: white;
+    border-radius: 20px;
+    background-color: brown;
+ }
+
+.text{
+    float: right;
+    overflow: hidden;
+}
+
+.container{
+    margin: auto;
+    width: max-content;
+    
+}
+
+.card{
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.card:img{
+    width: 100%;
+    object-fit: cover;
+}
+
+footer{
+    margin-left: 0;
+}
+
+.card:hover{
+    color: brown;
+    border-radius: 20px;
+    background-color: aquamarine;
+ }
+
+ .banner{
+    float: left;
+ }
